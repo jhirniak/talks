@@ -10,6 +10,7 @@
  * [Elm-lang](http://elm-lang.org/)
  * [RxJS](https://github.com/Reactive-Extensions/RxJS)
  * [Bacon.js](https://github.com/baconjs/bacon.js/)
+ * [Bacon.js makes functional reactive programming sizzle](http://blog.flowdock.com/2013/01/22/functional-reactive-programming-with-bacon-js/)
  * [Reactive Collections](http://reactive-collections.com/)
  * [Takashi on various examples in Haskell's FRP.Reactive](http://propella.blogspot.co.uk/2011/12/various-examples-in-haskells.html)
 
