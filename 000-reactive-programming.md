@@ -33,7 +33,7 @@
  * [TIOBE Index for January 2015](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
 
 ## Interesting programming languages:
- * [Groovy](http://en.wikipedia.org/wiki/Groovy_(programming_language)
+ * [Groovy](http://en.wikipedia.org/wiki/Groovy_(programming_language))
  * [Scala - The good, the bad, and the very ugly](http://www.slideshare.net/Bozho/scala-the-good-the-bad-and-the-very-ugly)
  * [Rust-lang](http://www.rust-lang.org/)
 
