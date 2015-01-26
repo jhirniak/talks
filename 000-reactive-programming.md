@@ -23,16 +23,13 @@
 
 ## Frameworks efficiency (Java not that slow after all):
  * [Frameworks Round 1](http://www.techempower.com/blog/2013/03/28/frameworks-round-1/)
- *
 
 ## Real Time JVMs:
  * [Oracle JRockit JVM](http://www.oracle.com/technetwork/middleware/jrockit/overview/index-101826.html)
  * [WebSphere Real Time](http://www-03.ibm.com/software/products/en/real-time/)
- *
 
 ## Language trends:
  * [TIOBE Index for January 2015](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
- *
 
 ## Interesting programming languages:
  * [Groovy](http://en.wikipedia.org/wiki/Groovy_(programming_language)
